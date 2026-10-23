@@ -1,0 +1,1 @@
+package in.terratech.vegmap; public class Listing { public long id; public String vegetable,unit,seller,location,ownerPhone,shopName,contactPhone; public double price,quantity; public Listing(){} public Listing(long id,String v,double p,double q,String u,String s,String l,String owner){this.id=id;vegetable=v;price=p;quantity=q;unit=u;seller=s;location=l;ownerPhone=owner;} }

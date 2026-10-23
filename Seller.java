@@ -1,0 +1,1 @@
+package in.terratech.vegmap; public class Seller { public String phone,name,passwordHash,location,status; public double latitude,longitude; public boolean phoneVerified; }
